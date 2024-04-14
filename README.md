@@ -5,6 +5,7 @@ Nasze oprogramowanie to kompleksowe rozwiązanie dla warsztatów samochodowych, 
 Aplikacja zapewnia automatyzację wielu kluczowych procesów, od fakturowania po zarządzanie zapasami, co pozwala na optymalizację pracy warsztatu.
 
 Funkcjonalności
+
 Automatyzacja fakturowania: Współpraca z zewnętrzną firmą księgową dla sprawnego przetwarzania transakcji.
 Zarządzanie zapasami: Automatyzacja zamówień części oraz utrzymanie odpowiedniego stanu magazynowego.
 Sieć komputerowa: Zapewnienie niezbędnego sprzętu komputerowego na każdym stanowisku pracy dla efektywnej komunikacji wewnętrznej.

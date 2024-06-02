@@ -1,0 +1,135 @@
+<mxfile host="app.diagrams.net" modified="2024-06-02T14:57:34.338Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="NvkKLga9sXSumuAIaoli" version="24.3.1" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2391" dy="1054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="FIJbDI-REymxSYs-ddln-59" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="399" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FIJbDI-REymxSYs-ddln-60" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="FIJbDI-REymxSYs-ddln-59" parent="WIyWlLk6GJQsqaUBKTNV-1" target="FIJbDI-REymxSYs-ddln-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FIJbDI-REymxSYs-ddln-61" value="przyjęcie na stanowisko" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FIJbDI-REymxSYs-ddln-62" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="FIJbDI-REymxSYs-ddln-61" parent="WIyWlLk6GJQsqaUBKTNV-1" target="FIJbDI-REymxSYs-ddln-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FIJbDI-REymxSYs-ddln-65" value="aktualizacja statusu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FIJbDI-REymxSYs-ddln-62">
+          <mxGeometry x="-0.2143" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FIJbDI-REymxSYs-ddln-63" value="rozpoczęcie naprawy" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FIJbDI-REymxSYs-ddln-64" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="FIJbDI-REymxSYs-ddln-63" parent="WIyWlLk6GJQsqaUBKTNV-1" target="FIJbDI-REymxSYs-ddln-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FIJbDI-REymxSYs-ddln-66" value="aktualizacja statusu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FIJbDI-REymxSYs-ddln-64">
+          <mxGeometry x="-0.1079" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FIJbDI-REymxSYs-ddln-67" value="rozebranie samochodu" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FIJbDI-REymxSYs-ddln-68" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="FIJbDI-REymxSYs-ddln-67" parent="WIyWlLk6GJQsqaUBKTNV-1" target="FIJbDI-REymxSYs-ddln-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FIJbDI-REymxSYs-ddln-69" value="aktualizacja statusu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FIJbDI-REymxSYs-ddln-68">
+          <mxGeometry x="0.1249" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FIJbDI-REymxSYs-ddln-70" value="znalezienie usterki" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FIJbDI-REymxSYs-ddln-71" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="FIJbDI-REymxSYs-ddln-70" parent="WIyWlLk6GJQsqaUBKTNV-1" target="FIJbDI-REymxSYs-ddln-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FIJbDI-REymxSYs-ddln-72" value="aktualizacja statusu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FIJbDI-REymxSYs-ddln-71">
+          <mxGeometry x="0.0073" y="1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FIJbDI-REymxSYs-ddln-73" value="wymiana&lt;div&gt;części&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="371" y="570" width="86" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="FIJbDI-REymxSYs-ddln-74" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=1.004;entryY=0.421;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="FIJbDI-REymxSYs-ddln-73" parent="WIyWlLk6GJQsqaUBKTNV-1" target="FIJbDI-REymxSYs-ddln-78">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="550" y="605" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="597" />
+              <mxPoint x="630" y="817" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FIJbDI-REymxSYs-ddln-75" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="FIJbDI-REymxSYs-ddln-73" parent="WIyWlLk6GJQsqaUBKTNV-1" target="FIJbDI-REymxSYs-ddln-80">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="414" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FIJbDI-REymxSYs-ddln-78" value="wykonanie naprawy" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FIJbDI-REymxSYs-ddln-79" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="FIJbDI-REymxSYs-ddln-78" parent="WIyWlLk6GJQsqaUBKTNV-1" target="FIJbDI-REymxSYs-ddln-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FIJbDI-REymxSYs-ddln-85" value="zmiana statusu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FIJbDI-REymxSYs-ddln-79">
+          <mxGeometry x="-0.0057" y="-1" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FIJbDI-REymxSYs-ddln-80" value="sprawdzenie&amp;nbsp;&lt;div&gt;dostępności&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="361" y="690" width="106" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FIJbDI-REymxSYs-ddln-81" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="FIJbDI-REymxSYs-ddln-80" parent="WIyWlLk6GJQsqaUBKTNV-1" target="FIJbDI-REymxSYs-ddln-83">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="260" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FIJbDI-REymxSYs-ddln-82" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="FIJbDI-REymxSYs-ddln-80" parent="WIyWlLk6GJQsqaUBKTNV-1" target="FIJbDI-REymxSYs-ddln-78">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="430" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FIJbDI-REymxSYs-ddln-83" value="oczekiwanie na część" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="700" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FIJbDI-REymxSYs-ddln-84" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="FIJbDI-REymxSYs-ddln-83" parent="WIyWlLk6GJQsqaUBKTNV-1" target="FIJbDI-REymxSYs-ddln-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FIJbDI-REymxSYs-ddln-86" value="zakończenie naprawy" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="910" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FIJbDI-REymxSYs-ddln-87" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="FIJbDI-REymxSYs-ddln-86" parent="WIyWlLk6GJQsqaUBKTNV-1" target="FIJbDI-REymxSYs-ddln-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FIJbDI-REymxSYs-ddln-88" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="399" y="1000" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
